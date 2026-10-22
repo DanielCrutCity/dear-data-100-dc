@@ -73,3 +73,15 @@ Commute observation data via Apple Shortcuts
 10/21/26, 16:07|51.523344|-0.146444| Environmental condition|1 - Minor| 0|Train noise and conversations from nearby passengers - REGENT'S PARK
 
 10/21/26, 16:09|51.515224|-0.141903| Crowding or congestion|2 - Notice| 30|Passengers moving through the station after arriving - OXFORD CIRCUS
+
+10/22/26, 13:10|51.610990|-0.423584| Waiting or delays|2 - Notice| 90|Waiting on the platform for a train towards Pinner - NORTHWOOD
+
+10/22/26, 13:15|51.605714|-0.416198| Crowding or congestion|1 - Minor| 30|Passengers shifting around as the train travelled southbound towards northwood Hills
+
+10/22/26, 13:18|51.596570|-0.394676| Environmental condition|1 - Minor| 0|Train noise and carriage movement as the train continued towards PINNER
+
+10/22/26, 16:20|51.592703|-0.380539| Waiting or delays|2 - Notice| 120|Waiting on the platform for a train back towards Northwood - PINNER
+
+10/22/26, 16:25|51.596570|-0.394676| Crowding or congestion|1 - Minor| 30|Passengers shifting around as the train travelled northbound towards Northwood hills
+
+10/22/26, 16:28|51.605714|-0.416198| Environmental condition|1 - Minor| 0|Train noise and carriage movement as the train continued northbound towards Northwood
